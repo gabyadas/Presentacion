@@ -38,8 +38,8 @@
 </head>
 <body>
 
-  <div class="slave" style="background-image: url('esclavo1.png');"></div>
-  <div class="slave" style="background-image: url('esclavo2.png');"></div>
+  <div class="slave" style="background-image: url('esclavo.png');"></div>
+  <div class="slave" style="background-image: url('esclavo.png');"></div>
 
   <script>
     setTimeout(() => {

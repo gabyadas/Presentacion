@@ -39,7 +39,7 @@
 <body>
 
   <div class="slave" style="background-image: url('esclavo.png');"></div>
-  <div class="slave" style="background-image: url('esclavo.png');"></div>
+  
 
   <script>
     setTimeout(() => {
